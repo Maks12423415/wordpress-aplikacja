@@ -1,0 +1,7 @@
+.divy {
+  width: 50%;
+  height: 100px;
+  border: solid black 2px;
+  background-color: aqua;
+  gap: 10px;
+}
